@@ -27,11 +27,23 @@ from ..models import MatchResult, SpeakerBinding, SpeakerCandidate, SpeakerProfi
 
 REGISTRY_VERSION = 1
 
-#: Similarity at or above which a voiceprint is accepted as a known identity.
-DEFAULT_HIGH_THRESHOLD = 0.82
+#: Similarity at or above which a voiceprint is accepted as a known identity
+#: and the identity is reused without asking the user.
+#:
+#: Calibrated on real Mandarin meeting audio (AISHELL-4), 126 enrolment clips
+#: from 14 speakers across 7 sessions. At this value a voiceprint of a
+#: *different* person is accepted for roughly 1 in 120 comparisons against a
+#: profile that holds three voiceprints — the only situation in which Attune
+#: stays silent, and therefore the only situation in which it can be wrong
+#: without the user noticing. See ``docs/voiceprint-calibration.md``.
+DEFAULT_HIGH_THRESHOLD = 0.68
 
 #: Similarity below which a voiceprint is treated as a brand new person.
-DEFAULT_LOW_THRESHOLD = 0.62
+#:
+#: This is the equal-error point of the two similarity distributions: below it
+#: "somebody I have never met" is the more likely reading, so Attune asks the
+#: user who the new person is instead of offering a shortlist.
+DEFAULT_LOW_THRESHOLD = 0.53
 
 
 def cosine_similarity(left: Sequence[float], right: Sequence[float]) -> float:
@@ -124,13 +136,25 @@ class SpeakerRegistry:
 
     @staticmethod
     def _score_profile(profile: SpeakerProfile, embedding: Sequence[float]) -> float | None:
+        """Score a voiceprint against one identity.
+
+        The identity is represented by the **centroid** of its stored
+        voiceprints, not by the best of them. Taking the best individual
+        voiceprint gets more optimistic every time the person is enrolled
+        again — an impostor's score rises with the number of voiceprints on
+        file, so the threshold would have to move as the registry grows.
+        Comparing against the average keeps the impostor score flat and still
+        lifts the genuine score, which is what makes one fixed threshold
+        meaningful over time. Measured on AISHELL-4, the centroid rule beats
+        the best-of rule on both false accepts and recall at every operating
+        point (see ``docs/voiceprint-calibration.md``).
+        """
         if not profile.embeddings:
             return None
-        centroid = profile.centroid()
-        scores = [cosine_similarity(embedding, vector) for vector in profile.embeddings]
-        if centroid:
-            scores.append(cosine_similarity(embedding, centroid))
-        return max(scores)
+        anchor = profile.centroid()
+        if not anchor:
+            return None
+        return cosine_similarity(embedding, anchor)
 
     def match(self, embedding: Sequence[float], engine_speaker: str = "") -> MatchResult:
         """Match one voiceprint against the registry.

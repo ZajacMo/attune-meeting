@@ -145,8 +145,8 @@ The response is the updated session state; both documents are re-rendered.
 ```json
 {
   "project_id": "my-project",
-  "high_threshold": 0.82,
-  "low_threshold": 0.62,
+  "high_threshold": 0.68,
+  "low_threshold": 0.53,
   "speakers": [{"identity_id": "…", "display_name": "…", "aliases": [], "appearances": 7, "total_seconds": 512.4, "confirmed": true}]
 }
 ```

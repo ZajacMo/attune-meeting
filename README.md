@@ -117,8 +117,8 @@ print(result.minutes_markdown)
 {
   "version": 1,
   "project_id": "my-project",
-  "high_threshold": 0.82,
-  "low_threshold": 0.62,
+  "high_threshold": 0.68,
+  "low_threshold": 0.53,
   "profiles": [
     {
       "identity_id": "spk_1a2b3c4d",
@@ -145,9 +145,11 @@ one of three outcomes:
 - **new** — similarity below `low_threshold` → a new identity is created and
   queued for naming.
 
-> **Thresholds are a starting point, not a law.** They must be calibrated on
-> your own audio with your own microphones. Treat the defaults as a first
-> guess and measure.
+> **Thresholds are a starting point, not a law.** The shipped defaults
+> (0.68 / 0.53) were measured on real Mandarin meeting audio — see
+> [`docs/voiceprint-calibration.md`](docs/voiceprint-calibration.md) for the
+> data, the method and the reproducible scripts. Your microphones and rooms
+> change the voiceprint, so re-measure on your own audio before trusting them.
 
 ---
 

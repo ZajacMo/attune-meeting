@@ -140,13 +140,20 @@ class FunASREngine:
         if generate is None:  # pragma: no cover - defensive
             raise RuntimeError("The FunASR model object does not expose generate().")
 
-        result = generate(input=audio_path)
+        result = generate(input=audio_path, return_spk_center=True)
         payload = result[0] if isinstance(result, list) and result else result
         if not isinstance(payload, dict):
             return []
 
+        # ``spk_embedding_center`` holds one voiceprint centroid per speaker,
+        # indexed by the ``spk`` id that appears in ``sentence_info``.
+        centers = payload.get("spk_embedding_center")
+        centroid_by_speaker: dict[int, tuple[float, ...]] = {}
+        if centers is not None:
+            for index, vector in enumerate(centers):
+                centroid_by_speaker[index] = tuple(float(value) for value in vector)
+
         sentences = payload.get("sentence_info") or []
-        shared_embedding = _as_embedding(payload.get("spk_embedding"))
         utterances: list[Utterance] = []
         for index, sentence in enumerate(sentences):
             if not isinstance(sentence, dict):
@@ -154,15 +161,14 @@ class FunASREngine:
             text = str(sentence.get("text", "")).strip()
             if not text:
                 continue
-            speaker = sentence.get("spk", index)
-            embedding = _as_embedding(sentence.get("spk_embedding")) or shared_embedding
+            speaker = int(sentence.get("spk", index))
             utterances.append(
                 Utterance(
                     start=float(sentence.get("start", 0.0)) / 1000.0,
                     end=float(sentence.get("end", 0.0)) / 1000.0,
                     text=text,
                     engine_speaker=f"spk_{speaker}",
-                    embedding=embedding,
+                    embedding=centroid_by_speaker.get(speaker),
                 )
             )
         return utterances

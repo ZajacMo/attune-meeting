@@ -19,6 +19,16 @@ def _utterances(voice_a=VOICE_A, voice_b=VOICE_B):
     ]
 
 
+def _ambiguous_registry() -> SpeakerRegistry:
+    """A registry whose thresholds put ``VOICE_MIDDLE`` in the ambiguous band.
+
+    The shipped thresholds are calibrated on real meeting audio and move with
+    every calibration run, so tests that exercise a specific verdict pin their
+    own thresholds instead of relying on the defaults.
+    """
+    return SpeakerRegistry(project_id="p1", high_threshold=0.90, low_threshold=0.50)
+
+
 def test_first_meeting_creates_pending_resolutions() -> None:
     registry = SpeakerRegistry(project_id="p1")
     pipeline = MeetingPipeline(StaticEngine(_utterances()), registry)
@@ -98,7 +108,7 @@ def test_unnamed_speaker_keeps_asking_until_named() -> None:
 
 
 def test_ambiguous_voice_is_presented_to_the_user() -> None:
-    registry = SpeakerRegistry(project_id="p1")
+    registry = _ambiguous_registry()
     registry.enroll("spk_seed", "张三", VOICE_A)
 
     ambiguous = [
@@ -115,7 +125,7 @@ def test_ambiguous_voice_is_presented_to_the_user() -> None:
 
 
 def test_merging_an_ambiguous_voice_keeps_the_chosen_name() -> None:
-    registry = SpeakerRegistry(project_id="p1")
+    registry = _ambiguous_registry()
     registry.enroll("spk_seed", "张三", VOICE_A)
 
     ambiguous = [
@@ -135,7 +145,7 @@ def test_merging_an_ambiguous_voice_keeps_the_chosen_name() -> None:
 
 
 def test_assigning_to_an_existing_identity_drops_the_provisional() -> None:
-    registry = SpeakerRegistry(project_id="p1")
+    registry = _ambiguous_registry()
     registry.enroll("spk_seed", "张三", VOICE_A)
 
     utterances = [

@@ -4,7 +4,13 @@ from __future__ import annotations
 
 import math
 
-from attune.core.identity import SpeakerRegistry, cosine_similarity, new_identity_id
+from attune.core.identity import (
+    DEFAULT_HIGH_THRESHOLD,
+    DEFAULT_LOW_THRESHOLD,
+    SpeakerRegistry,
+    cosine_similarity,
+    new_identity_id,
+)
 
 VOICE_A = (1.0, 0.0, 0.0)
 VOICE_B = (0.0, 1.0, 0.0)
@@ -42,7 +48,10 @@ def test_known_speaker_is_matched_silently() -> None:
 
 
 def test_ambiguous_speaker_asks_the_user() -> None:
-    registry = SpeakerRegistry(project_id="p1")
+    # Thresholds are pinned here so the test exercises the three-state logic
+    # rather than the calibrated defaults, which move with every calibration
+    # run.
+    registry = SpeakerRegistry(project_id="p1", high_threshold=0.90, low_threshold=0.50)
     registry.enroll("spk_known", "张三", VOICE_A)
 
     match = registry.match(VOICE_MIDDLE, "spk_0")
@@ -70,6 +79,36 @@ def test_thresholds_are_configurable() -> None:
     # threshold is raised above it.
     match = registry.match(VOICE_MIDDLE, "spk_0")
     assert match.kind == "ambiguous"
+
+
+def test_shipped_thresholds_stay_inside_the_calibrated_band() -> None:
+    """Lock in the calibration decision.
+
+    ``docs/voiceprint-calibration.md`` measures real Mandarin meeting audio:
+    above 0.68 a different person is accepted for roughly 1 in 120
+    comparisons, and below 0.53 "somebody I have never met" is the more likely
+    reading. Moving either number silently would undo that measurement.
+    """
+    assert DEFAULT_HIGH_THRESHOLD == 0.68
+    assert DEFAULT_LOW_THRESHOLD == 0.53
+    assert DEFAULT_LOW_THRESHOLD < DEFAULT_HIGH_THRESHOLD
+
+
+def test_identity_is_scored_against_its_centroid() -> None:
+    """The score must not depend on how many voiceprints an identity holds.
+
+    Scoring against the best stored voiceprint would let an impostor's score
+    drift upwards every time the person is enrolled again, so the threshold
+    would have to move as the registry grows. The centroid keeps it flat.
+    """
+    registry = SpeakerRegistry(project_id="p1")
+    registry.enroll("spk_known", "张三", VOICE_A)
+    registry.enroll("spk_known", "张三", VOICE_B)
+
+    # Centroid of (1,0,0) and (0,1,0) is (0.5,0.5,0); against (1,0,0) that is
+    # a cosine of 0.707, not the 1.0 the best-of rule would report.
+    match = registry.match(VOICE_A, "spk_0")
+    assert math.isclose(match.score, 0.70710678, rel_tol=1e-5)
 
 
 def test_merge_moves_voiceprints_and_keeps_alias() -> None:

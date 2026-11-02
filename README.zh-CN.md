@@ -111,8 +111,8 @@ print(result.minutes_markdown)
 {
   "version": 1,
   "project_id": "my-project",
-  "high_threshold": 0.82,
-  "low_threshold": 0.62,
+  "high_threshold": 0.68,
+  "low_threshold": 0.53,
   "profiles": [
     {
       "identity_id": "spk_1a2b3c4d",
@@ -136,8 +136,9 @@ print(result.minutes_markdown)
 - **ambiguous**——落在两个阈值之间 → 交给用户决定合并还是新建。Attune 在这里不猜。
 - **new**——相似度 < `low_threshold` → 新建身份并等待命名。
 
-> **阈值是起点，不是定律。** 必须用你自己的音频、你自己的麦克风标定。
-> 默认值只是第一版猜测，请实测。
+> **阈值是起点，不是定律。** 出厂默认值（0.68 / 0.53）是在真实中文会议音频上实测出来的——
+> 数据、方法与可复现脚本见 [`docs/voiceprint-calibration.md`](docs/voiceprint-calibration.md)。
+> 换了麦克风和房间，声纹本身就会变，请在自有音频上重新实测再决定是否沿用。
 
 ---
 
