@@ -1,0 +1,2667 @@
+[
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S01C01_001-F_1646.92_1652.78.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S01C01_001-F_1646.92_1652.78.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S01C01_001-F_1766.22_1773.10.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S01C01_001-F_1766.22_1773.10.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S01C01_001-F_1797.68_1802.85.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S01C01_001-F_1797.68_1802.85.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S02C01_001-F_1610.22_1615.58.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S02C01_001-F_1610.22_1615.58.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S02C01_001-F_1905.50_1910.53.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S02C01_001-F_1905.50_1910.53.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S02C01_001-F_544.41_550.59.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S02C01_001-F_544.41_550.59.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S03C01_001-F_1238.07_1243.89.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S03C01_001-F_1238.07_1243.89.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S03C01_001-F_1616.02_1621.67.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S03C01_001-F_1616.02_1621.67.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S03C01_001-F_2171.64_2177.54.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S03C01_001-F_2171.64_2177.54.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_001-M_1273.18_1286.16.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_001-M_1273.18_1286.16.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_001-M_1422.03_1428.39.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_001-M_1422.03_1428.39.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_001-M_1705.48_1711.47.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_001-M_1705.48_1711.47.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_001-M_1121.54_1130.58.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_1121.54_1130.58.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_001-M_1139.06_1145.66.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_1139.06_1145.66.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_001-M_409.46_419.53.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_409.46_419.53.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_001-M_1164.85_1171.59.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_001-M_1164.85_1171.59.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_001-M_1294.12_1301.58.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_001-M_1294.12_1301.58.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "001-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_001-M_1970.72_1976.83.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_001-M_1970.72_1976.83.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_002-F_1544.90_1550.43.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_1544.90_1550.43.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_002-F_1579.23_1585.93.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_1579.23_1585.93.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_002-F_702.54_708.95.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_702.54_708.95.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_002-F_1030.77_1037.94.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_1030.77_1037.94.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_002-F_248.07_253.08.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_248.07_253.08.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_002-F_50.57_56.40.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_50.57_56.40.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_002-F_1370.81_1381.08.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_1370.81_1381.08.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_002-F_212.66_222.04.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_212.66_222.04.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_002-F_222.20_231.53.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_222.20_231.53.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_003-F_1286.54_1295.23.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_003-F_1286.54_1295.23.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_003-F_1352.67_1360.36.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_003-F_1352.67_1360.36.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_003-F_402.35_407.90.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_003-F_402.35_407.90.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_003-F_1293.59_1302.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_003-F_1293.59_1302.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_003-F_1392.35_1398.33.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_003-F_1392.35_1398.33.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200624_S_R001S02C01_003-F_1387.96_1392.99.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S02C01_003-F_1387.96_1392.99.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_003-F_1036.69_1046.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_003-F_1036.69_1046.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_003-F_141.28_147.07.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_003-F_141.28_147.07.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_003-F_355.97_362.13.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_003-F_355.97_362.13.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_004-F_173.66_182.12.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_173.66_182.12.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_004-F_182.20_193.49.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_182.20_193.49.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S01C01_004-F_329.54_338.45.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_329.54_338.45.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_004-F_1019.79_1025.47.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_1019.79_1025.47.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_004-F_1340.81_1345.82.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_1340.81_1345.82.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S02C01_004-F_284.44_293.88.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_284.44_293.88.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_004-F_117.60_122.70.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_117.60_122.70.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_004-F_134.86_141.05.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_134.86_141.05.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200616_M_R001S03C01_004-F_582.77_589.23.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_582.77_589.23.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S01C01_004-M_1265.25_1272.87.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S01C01_004-M_1265.25_1272.87.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S01C01_004-M_495.80_502.30.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S01C01_004-M_495.80_502.30.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S01C01_004-M_559.95_566.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S01C01_004-M_559.95_566.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S02C01_004-M_1056.42_1066.64.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S02C01_004-M_1056.42_1066.64.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S02C01_004-M_1198.58_1205.63.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S02C01_004-M_1198.58_1205.63.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S02C01_004-M_1271.79_1278.21.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S02C01_004-M_1271.79_1278.21.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S03C01_004-M_1186.03_1192.18.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S03C01_004-M_1186.03_1192.18.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S03C01_004-M_1575.81_1581.92.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S03C01_004-M_1575.81_1581.92.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "004-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200618_M_R001S03C01_004-M_1733.30_1740.81.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200618_M_R001S03C01_004-M_1733.30_1740.81.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S01C01_006-M_1176.69_1182.05.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S01C01_006-M_1176.69_1182.05.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S01C01_006-M_1182.22_1193.51.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S01C01_006-M_1182.22_1193.51.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S01C01_006-M_1361.67_1373.34.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S01C01_006-M_1361.67_1373.34.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S02C01_006-M_1075.45_1080.58.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S02C01_006-M_1075.45_1080.58.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S02C01_006-M_1599.21_1604.33.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S02C01_006-M_1599.21_1604.33.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S02C01_006-M_35.38_44.87.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S02C01_006-M_35.38_44.87.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S03C01_006-M_1421.22_1429.23.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S03C01_006-M_1421.22_1429.23.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S03C01_006-M_42.38_48.10.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S03C01_006-M_42.38_48.10.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200623_S_R001S03C01_006-M_552.58_560.67.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200623_S_R001S03C01_006-M_552.58_560.67.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_002-M_1583.10_1591.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_002-M_1583.10_1591.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_002-M_1727.31_1736.13.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_002-M_1727.31_1736.13.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_002-M_223.52_232.09.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_002-M_223.52_232.09.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_002-M_1019.86_1026.76.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_002-M_1019.86_1026.76.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_002-M_1431.81_1438.22.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_002-M_1431.81_1438.22.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_002-M_174.15_183.31.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_002-M_174.15_183.31.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_002-M_1489.26_1496.21.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_002-M_1489.26_1496.21.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_002-M_1496.93_1504.97.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_002-M_1496.93_1504.97.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "002-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_002-M_1772.54_1783.53.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_002-M_1772.54_1783.53.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_003-M_1185.57_1195.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_003-M_1185.57_1195.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_003-M_1412.77_1419.93.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_003-M_1412.77_1419.93.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S01C01_003-M_1703.44_1710.05.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S01C01_003-M_1703.44_1710.05.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_003-M_1280.66_1286.95.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_003-M_1280.66_1286.95.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_003-M_1354.59_1361.15.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_003-M_1354.59_1361.15.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S02C01_003-M_1668.13_1677.48.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S02C01_003-M_1668.13_1677.48.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_003-M_1636.84_1645.18.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_003-M_1636.84_1645.18.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_003-M_187.96_195.03.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_003-M_187.96_195.03.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "003-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200617_M_R001S03C01_003-M_237.60_244.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200617_M_R001S03C01_003-M_237.60_244.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_005-F_1749.85_1756.01.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_005-F_1749.85_1756.01.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_005-F_323.12_334.93.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_005-F_323.12_334.93.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_005-F_353.51_364.76.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_005-F_353.51_364.76.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_005-F_1061.95_1067.84.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_005-F_1061.95_1067.84.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_005-F_1081.45_1087.54.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_005-F_1081.45_1087.54.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_005-F_1096.55_1109.47.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_005-F_1096.55_1109.47.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_005-F_1271.64_1277.37.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_005-F_1271.64_1277.37.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_005-F_1481.54_1489.04.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_005-F_1481.54_1489.04.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_005-F_1495.24_1500.38.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_005-F_1495.24_1500.38.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_006-F_1077.02_1083.11.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_006-F_1077.02_1083.11.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_006-F_1726.37_1736.17.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_006-F_1726.37_1736.17.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_006-F_455.24_462.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_006-F_455.24_462.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_006-F_1307.54_1320.43.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_006-F_1307.54_1320.43.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_006-F_1324.94_1342.36.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_006-F_1324.94_1342.36.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_006-F_1374.13_1388.82.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_006-F_1374.13_1388.82.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_006-F_1024.09_1031.80.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_006-F_1024.09_1031.80.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_006-F_1031.86_1038.71.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_006-F_1031.86_1038.71.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "006-F",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_006-F_1038.89_1045.23.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_006-F_1038.89_1045.23.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S01C01_005-M_1627.75_1638.57.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S01C01_005-M_1627.75_1638.57.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S01C01_005-M_168.92_181.52.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S01C01_005-M_168.92_181.52.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S01C01_005-M_1918.42_1937.18.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S01C01_005-M_1918.42_1937.18.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S03C01_005-M_124.86_133.09.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S03C01_005-M_124.86_133.09.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S03C01_005-M_161.45_166.77.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S03C01_005-M_161.45_166.77.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200805_S_R001S03C01_005-M_202.55_212.08.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200805_S_R001S03C01_005-M_202.55_212.08.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S05C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200806_S_R001S05C01_005-M_101.33_108.28.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200806_S_R001S05C01_005-M_101.33_108.28.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S05C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200806_S_R001S05C01_005-M_1176.72_1184.15.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200806_S_R001S05C01_005-M_1176.72_1184.15.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "005-M",
+    "session": "R001S05C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200806_S_R001S05C01_005-M_422.27_431.10.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200806_S_R001S05C01_005-M_422.27_431.10.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_007-M_1296.79_1303.02.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_007-M_1296.79_1303.02.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_007-M_1882.58_1889.96.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_007-M_1882.58_1889.96.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S01C01_007-M_1897.62_1906.64.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S01C01_007-M_1897.62_1906.64.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_007-M_1542.64_1548.32.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_007-M_1542.64_1548.32.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_007-M_1621.44_1627.32.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_007-M_1621.44_1627.32.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S02C01_007-M_1662.29_1670.35.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S02C01_007-M_1662.29_1670.35.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_007-M_1553.14_1564.07.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_007-M_1553.14_1564.07.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_007-M_1591.70_1601.87.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_007-M_1591.70_1601.87.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-M",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200706_L_R001S03C01_007-M_1603.34_1610.69.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200706_L_R001S03C01_007-M_1603.34_1610.69.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S01C01_007-F_446.11_457.79.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S01C01_007-F_446.11_457.79.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S01C01_007-F_851.21_857.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S01C01_007-F_851.21_857.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S01C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S01C01_007-F_883.47_891.24.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S01C01_007-F_883.47_891.24.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S02C01_007-F_1111.73_1119.68.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S02C01_007-F_1111.73_1119.68.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S02C01_007-F_1127.78_1134.87.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S02C01_007-F_1127.78_1134.87.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S02C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S02C01_007-F_1137.87_1152.43.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S02C01_007-F_1137.87_1152.43.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S03C01_007-F_1522.78_1540.32.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S03C01_007-F_1522.78_1540.32.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S03C01_007-F_1540.39_1554.00.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S03C01_007-F_1540.39_1554.00.wav"
+  },
+  {
+    "kind": "enrolment",
+    "speaker": "007-F",
+    "session": "R002S03C01",
+    "path": "experiments/data/ps4/enrolment/AISHELL-4_20200708_L_R002S03C01_007-F_1576.78_1583.27.wav",
+    "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200708_L_R002S03C01_007-F_1576.78_1583.27.wav"
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S01C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S01C01_mixture_1319.63_1335.54.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S01C01_mixture_1319.63_1335.54.wav",
+    "window": {
+      "start": "1319.63",
+      "end": "1335.54"
+    },
+    "target_speakers": [
+      "002-F",
+      "004-F"
+    ],
+    "expected_speakers": "2",
+    "constituents": [
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "session": "R001S01C01",
+        "start": "1579.23",
+        "end": "1585.93",
+        "enrolment_key": "R001S01C01|002-F|1579.23|1585.93",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_1579.23_1585.93.wav",
+        "speaker_ratio": "0.9",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "session": "R001S01C01",
+        "start": "868.57",
+        "end": "879.54",
+        "enrolment_key": "R001S01C01|002-F|868.57|879.54",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_868.57_879.54.wav",
+        "speaker_ratio": "0.9",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "session": "R001S01C01",
+        "start": "1544.90",
+        "end": "1550.43",
+        "enrolment_key": "R001S01C01|002-F|1544.90|1550.43",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_1544.90_1550.43.wav",
+        "speaker_ratio": "0.9",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对都采取线上对",
+        "session": "R001S01C01",
+        "start": "939.96",
+        "end": "952.91",
+        "enrolment_key": "R001S01C01|002-F|939.96|952.91",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_939.96_952.91.wav",
+        "speaker_ratio": "0.9",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对都采取线上对",
+        "session": "R001S01C01",
+        "start": "702.54",
+        "end": "708.95",
+        "enrolment_key": "R001S01C01|002-F|702.54|708.95",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_702.54_708.95.wav",
+        "speaker_ratio": "0.9",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "session": "R001S01C01",
+        "start": "825.71",
+        "end": "838.17",
+        "enrolment_key": "R001S01C01|004-F|825.71|838.17",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_825.71_838.17.wav",
+        "speaker_ratio": "0.96",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "session": "R001S01C01",
+        "start": "648.09",
+        "end": "657.27",
+        "enrolment_key": "R001S01C01|004-F|648.09|657.27",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_648.09_657.27.wav",
+        "speaker_ratio": "0.96",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "session": "R001S01C01",
+        "start": "329.54",
+        "end": "338.45",
+        "enrolment_key": "R001S01C01|004-F|329.54|338.45",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_329.54_338.45.wav",
+        "speaker_ratio": "0.96",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "session": "R001S01C01",
+        "start": "173.66",
+        "end": "182.12",
+        "enrolment_key": "R001S01C01|004-F|173.66|182.12",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_173.66_182.12.wav",
+        "speaker_ratio": "0.96",
+        "overlap_duration": "13.67"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "session": "R001S01C01",
+        "start": "182.20",
+        "end": "193.49",
+        "enrolment_key": "R001S01C01|004-F|182.20|193.49",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_182.20_193.49.wav",
+        "speaker_ratio": "0.96",
+        "overlap_duration": "13.67"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "002-F",
+        "session": "R001S01C01",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S01C01_002-F_1579.23_1585.93.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_1579.23_1585.93.wav",
+        "start": "1579.23",
+        "end": "1585.93"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S01C01",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S01C01_002-F_868.57_879.54.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_002-F_868.57_879.54.wav",
+        "start": "868.57",
+        "end": "879.54"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S01C01",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S01C01_004-F_825.71_838.17.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_825.71_838.17.wav",
+        "start": "825.71",
+        "end": "838.17"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S01C01",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S01C01_004-F_648.09_657.27.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S01C01_004-F_648.09_657.27.wav",
+        "start": "648.09",
+        "end": "657.27"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对",
+        "speaker_ratio": "0.9"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "国家现在还不允许啊啊对嗯 呃现在呃他主要是线上对都采取线上对",
+        "speaker_ratio": "0.9"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "我觉得线下辅导的话辅导班儿的话咱们自己能咱们学校开学，开学能开展线下辅导班儿像像大学然后 后期的话还是课时限都采取线上对大学生就毕业生咱那都采取线上",
+        "speaker_ratio": "0.96"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S02C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S02C01_mixture_1268.75_1280.38.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S02C01_mixture_1268.75_1280.38.wav",
+    "window": {
+      "start": "1268.75",
+      "end": "1280.38"
+    },
+    "target_speakers": [
+      "001-M",
+      "002-F",
+      "004-F"
+    ],
+    "expected_speakers": "3",
+    "constituents": [
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "session": "R001S02C01",
+        "start": "1139.06",
+        "end": "1145.66",
+        "enrolment_key": "R001S02C01|001-M|1139.06|1145.66",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_1139.06_1145.66.wav",
+        "speaker_ratio": "0.91",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "session": "R001S02C01",
+        "start": "865.76",
+        "end": "871.36",
+        "enrolment_key": "R001S02C01|001-M|865.76|871.36",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_865.76_871.36.wav",
+        "speaker_ratio": "0.91",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "session": "R001S02C01",
+        "start": "409.46",
+        "end": "419.53",
+        "enrolment_key": "R001S02C01|001-M|409.46|419.53",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_409.46_419.53.wav",
+        "speaker_ratio": "0.91",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "session": "R001S02C01",
+        "start": "1121.54",
+        "end": "1130.58",
+        "enrolment_key": "R001S02C01|001-M|1121.54|1130.58",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_1121.54_1130.58.wav",
+        "speaker_ratio": "0.91",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "session": "R001S02C01",
+        "start": "419.53",
+        "end": "425.48",
+        "enrolment_key": "R001S02C01|001-M|419.53|425.48",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_419.53_425.48.wav",
+        "speaker_ratio": "0.91",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "session": "R001S02C01",
+        "start": "1030.77",
+        "end": "1037.94",
+        "enrolment_key": "R001S02C01|002-F|1030.77|1037.94",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_1030.77_1037.94.wav",
+        "speaker_ratio": "0.22",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "session": "R001S02C01",
+        "start": "50.57",
+        "end": "56.40",
+        "enrolment_key": "R001S02C01|002-F|50.57|56.40",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_50.57_56.40.wav",
+        "speaker_ratio": "0.22",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "session": "R001S02C01",
+        "start": "942.99",
+        "end": "948.74",
+        "enrolment_key": "R001S02C01|002-F|942.99|948.74",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_942.99_948.74.wav",
+        "speaker_ratio": "0.22",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "session": "R001S02C01",
+        "start": "988.52",
+        "end": "994.69",
+        "enrolment_key": "R001S02C01|002-F|988.52|994.69",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_988.52_994.69.wav",
+        "speaker_ratio": "0.22",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "session": "R001S02C01",
+        "start": "248.07",
+        "end": "253.08",
+        "enrolment_key": "R001S02C01|002-F|248.07|253.08",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_248.07_253.08.wav",
+        "speaker_ratio": "0.22",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "session": "R001S02C01",
+        "start": "284.44",
+        "end": "293.88",
+        "enrolment_key": "R001S02C01|004-F|284.44|293.88",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_284.44_293.88.wav",
+        "speaker_ratio": "0.45",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "session": "R001S02C01",
+        "start": "606.42",
+        "end": "612.23",
+        "enrolment_key": "R001S02C01|004-F|606.42|612.23",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_606.42_612.23.wav",
+        "speaker_ratio": "0.45",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "session": "R001S02C01",
+        "start": "1340.81",
+        "end": "1345.82",
+        "enrolment_key": "R001S02C01|004-F|1340.81|1345.82",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_1340.81_1345.82.wav",
+        "speaker_ratio": "0.45",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "session": "R001S02C01",
+        "start": "1019.79",
+        "end": "1025.47",
+        "enrolment_key": "R001S02C01|004-F|1019.79|1025.47",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_1019.79_1025.47.wav",
+        "speaker_ratio": "0.45",
+        "overlap_duration": "6.73"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "session": "R001S02C01",
+        "start": "550.34",
+        "end": "557.89",
+        "enrolment_key": "R001S02C01|004-F|550.34|557.89",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_550.34_557.89.wav",
+        "speaker_ratio": "0.45",
+        "overlap_duration": "6.73"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "001-M",
+        "session": "R001S02C01",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_001-M_1139.06_1145.66.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_1139.06_1145.66.wav",
+        "start": "1139.06",
+        "end": "1145.66"
+      },
+      {
+        "speaker": "001-M",
+        "session": "R001S02C01",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_001-M_865.76_871.36.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_001-M_865.76_871.36.wav",
+        "start": "865.76",
+        "end": "871.36"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S02C01",
+        "transcript": "啊就公寓室嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_002-F_1030.77_1037.94.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_1030.77_1037.94.wav",
+        "start": "1030.77",
+        "end": "1037.94"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S02C01",
+        "transcript": "啊就公寓室嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_002-F_50.57_56.40.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_002-F_50.57_56.40.wav",
+        "start": "50.57",
+        "end": "56.40"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S02C01",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_004-F_284.44_293.88.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_284.44_293.88.wav",
+        "start": "284.44",
+        "end": "293.88"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S02C01",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S02C01_004-F_606.42_612.23.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S02C01_004-F_606.42_612.23.wav",
+        "start": "606.42",
+        "end": "612.23"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "001-M",
+        "transcript": "这种可以有一个一室一卫一厅一厨的这种就是说有小室的有有有小户型的有大户型的 不两个复式，",
+        "speaker_ratio": "0.91"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就公寓室嗯",
+        "speaker_ratio": "0.22"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "是所有都做成复式的，还是公寓加复式",
+        "speaker_ratio": "0.45"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S03C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S03C01_mixture_1550.21_1566.96.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S03C01_mixture_1550.21_1566.96.wav",
+    "window": {
+      "start": "1550.21",
+      "end": "1566.96"
+    },
+    "target_speakers": [
+      "002-F",
+      "004-F"
+    ],
+    "expected_speakers": "2",
+    "constituents": [
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "session": "R001S03C01",
+        "start": "796.79",
+        "end": "804.50",
+        "enrolment_key": "R001S03C01|002-F|796.79|804.50",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_796.79_804.50.wav",
+        "speaker_ratio": "0.77",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "session": "R001S03C01",
+        "start": "1370.81",
+        "end": "1381.08",
+        "enrolment_key": "R001S03C01|002-F|1370.81|1381.08",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_1370.81_1381.08.wav",
+        "speaker_ratio": "0.77",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "session": "R001S03C01",
+        "start": "212.66",
+        "end": "222.04",
+        "enrolment_key": "R001S03C01|002-F|212.66|222.04",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_212.66_222.04.wav",
+        "speaker_ratio": "0.77",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "session": "R001S03C01",
+        "start": "222.20",
+        "end": "231.53",
+        "enrolment_key": "R001S03C01|002-F|222.20|231.53",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_222.20_231.53.wav",
+        "speaker_ratio": "0.77",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "session": "R001S03C01",
+        "start": "291.51",
+        "end": "297.76",
+        "enrolment_key": "R001S03C01|002-F|291.51|297.76",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_291.51_297.76.wav",
+        "speaker_ratio": "0.77",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "session": "R001S03C01",
+        "start": "582.77",
+        "end": "589.23",
+        "enrolment_key": "R001S03C01|004-F|582.77|589.23",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_582.77_589.23.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "session": "R001S03C01",
+        "start": "117.60",
+        "end": "122.70",
+        "enrolment_key": "R001S03C01|004-F|117.60|122.70",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_117.60_122.70.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "session": "R001S03C01",
+        "start": "134.86",
+        "end": "141.05",
+        "enrolment_key": "R001S03C01|004-F|134.86|141.05",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_134.86_141.05.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "session": "R001S03C01",
+        "start": "986.46",
+        "end": "994.59",
+        "enrolment_key": "R001S03C01|004-F|986.46|994.59",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_986.46_994.59.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "7.18"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "session": "R001S03C01",
+        "start": "745.17",
+        "end": "752.13",
+        "enrolment_key": "R001S03C01|004-F|745.17|752.13",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_745.17_752.13.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "7.18"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "002-F",
+        "session": "R001S03C01",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S03C01_002-F_796.79_804.50.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_796.79_804.50.wav",
+        "start": "796.79",
+        "end": "804.50"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S03C01",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S03C01_002-F_1370.81_1381.08.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_002-F_1370.81_1381.08.wav",
+        "start": "1370.81",
+        "end": "1381.08"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S03C01",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S03C01_004-F_582.77_589.23.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_582.77_589.23.wav",
+        "start": "582.77",
+        "end": "589.23"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S03C01",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S03C01_004-F_117.60_122.70.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S03C01_004-F_117.60_122.70.wav",
+        "start": "117.60",
+        "end": "122.70"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "002-F",
+        "transcript": "到 五点 然后五 到十一点到十点或者十一点 啊十一十一点以后就",
+        "speaker_ratio": "0.77"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "七点 啊我也觉得算十二从十二点开始十二点到五点啊 啊 服装的话就是从五点到十点十一点十一点就行十一点",
+        "speaker_ratio": "0.65"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S04C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200624_S_R001S04C01_mixture_1312.88_1325.86.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200624_S_R001S04C01_mixture_1312.88_1325.86.wav",
+    "window": {
+      "start": "1312.88",
+      "end": "1325.86"
+    },
+    "target_speakers": [
+      "001-F",
+      "003-F",
+      "004-M",
+      "006-M"
+    ],
+    "expected_speakers": "4",
+    "constituents": [
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "session": "R001S04C01",
+        "start": "1546.62",
+        "end": "1555.94",
+        "enrolment_key": "R001S04C01|004-M|1546.62|1555.94",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1546.62_1555.94.wav",
+        "speaker_ratio": "0.48",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "session": "R001S04C01",
+        "start": "1530.60",
+        "end": "1538.29",
+        "enrolment_key": "R001S04C01|004-M|1530.60|1538.29",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1530.60_1538.29.wav",
+        "speaker_ratio": "0.48",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "session": "R001S04C01",
+        "start": "371.28",
+        "end": "383.94",
+        "enrolment_key": "R001S04C01|004-M|371.28|383.94",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_371.28_383.94.wav",
+        "speaker_ratio": "0.48",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "session": "R001S04C01",
+        "start": "1213.67",
+        "end": "1220.30",
+        "enrolment_key": "R001S04C01|004-M|1213.67|1220.30",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1213.67_1220.30.wav",
+        "speaker_ratio": "0.48",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "session": "R001S04C01",
+        "start": "1261.69",
+        "end": "1269.34",
+        "enrolment_key": "R001S04C01|004-M|1261.69|1269.34",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1261.69_1269.34.wav",
+        "speaker_ratio": "0.48",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "session": "R001S04C01",
+        "start": "872.32",
+        "end": "880.45",
+        "enrolment_key": "R001S04C01|003-F|872.32|880.45",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_872.32_880.45.wav",
+        "speaker_ratio": "0.57",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "session": "R001S04C01",
+        "start": "1880.84",
+        "end": "1887.31",
+        "enrolment_key": "R001S04C01|003-F|1880.84|1887.31",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_1880.84_1887.31.wav",
+        "speaker_ratio": "0.57",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "session": "R001S04C01",
+        "start": "648.88",
+        "end": "656.99",
+        "enrolment_key": "R001S04C01|003-F|648.88|656.99",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_648.88_656.99.wav",
+        "speaker_ratio": "0.57",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "session": "R001S04C01",
+        "start": "1521.25",
+        "end": "1528.40",
+        "enrolment_key": "R001S04C01|003-F|1521.25|1528.40",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_1521.25_1528.40.wav",
+        "speaker_ratio": "0.57",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "session": "R001S04C01",
+        "start": "363.39",
+        "end": "369.44",
+        "enrolment_key": "R001S04C01|003-F|363.39|369.44",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_363.39_369.44.wav",
+        "speaker_ratio": "0.57",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "001-F",
+        "transcript": "不是，是小孩儿推的那种 特别小的那种购物车，嗯 嗯",
+        "session": "R001S04C01",
+        "start": "402.48",
+        "end": "408.07",
+        "enrolment_key": "R001S04C01|001-F|402.48|408.07",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_001-F_402.48_408.07.wav",
+        "speaker_ratio": "0.38",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "001-F",
+        "transcript": "不是，是小孩儿推的那种 特别小的那种购物车，嗯 嗯",
+        "session": "R001S04C01",
+        "start": "1041.17",
+        "end": "1049.00",
+        "enrolment_key": "R001S04C01|001-F|1041.17|1049.00",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_001-F_1041.17_1049.00.wav",
+        "speaker_ratio": "0.38",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "session": "R001S04C01",
+        "start": "1489.09",
+        "end": "1498.77",
+        "enrolment_key": "R001S04C01|006-M|1489.09|1498.77",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_1489.09_1498.77.wav",
+        "speaker_ratio": "0.3",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "session": "R001S04C01",
+        "start": "31.06",
+        "end": "44.93",
+        "enrolment_key": "R001S04C01|006-M|31.06|44.93",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_31.06_44.93.wav",
+        "speaker_ratio": "0.3",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "session": "R001S04C01",
+        "start": "149.09",
+        "end": "156.58",
+        "enrolment_key": "R001S04C01|006-M|149.09|156.58",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_149.09_156.58.wav",
+        "speaker_ratio": "0.3",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "session": "R001S04C01",
+        "start": "1238.26",
+        "end": "1247.67",
+        "enrolment_key": "R001S04C01|006-M|1238.26|1247.67",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_1238.26_1247.67.wav",
+        "speaker_ratio": "0.3",
+        "overlap_duration": "6.68"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "session": "R001S04C01",
+        "start": "388.98",
+        "end": "397.62",
+        "enrolment_key": "R001S04C01|006-M|388.98|397.62",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_388.98_397.62.wav",
+        "speaker_ratio": "0.3",
+        "overlap_duration": "6.68"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "004-M",
+        "session": "R001S04C01",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_004-M_1546.62_1555.94.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1546.62_1555.94.wav",
+        "start": "1546.62",
+        "end": "1555.94"
+      },
+      {
+        "speaker": "004-M",
+        "session": "R001S04C01",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_004-M_1530.60_1538.29.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_004-M_1530.60_1538.29.wav",
+        "start": "1530.60",
+        "end": "1538.29"
+      },
+      {
+        "speaker": "003-F",
+        "session": "R001S04C01",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_003-F_872.32_880.45.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_872.32_880.45.wav",
+        "start": "872.32",
+        "end": "880.45"
+      },
+      {
+        "speaker": "003-F",
+        "session": "R001S04C01",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_003-F_1880.84_1887.31.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_003-F_1880.84_1887.31.wav",
+        "start": "1880.84",
+        "end": "1887.31"
+      },
+      {
+        "speaker": "001-F",
+        "session": "R001S04C01",
+        "transcript": "不是，是小孩儿推的那种 特别小的那种购物车，嗯 嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_001-F_402.48_408.07.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_001-F_402.48_408.07.wav",
+        "start": "402.48",
+        "end": "408.07"
+      },
+      {
+        "speaker": "001-F",
+        "session": "R001S04C01",
+        "transcript": "不是，是小孩儿推的那种 特别小的那种购物车，嗯 嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_001-F_1041.17_1049.00.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_001-F_1041.17_1049.00.wav",
+        "start": "1041.17",
+        "end": "1049.00"
+      },
+      {
+        "speaker": "006-M",
+        "session": "R001S04C01",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_006-M_1489.09_1498.77.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_1489.09_1498.77.wav",
+        "start": "1489.09",
+        "end": "1498.77"
+      },
+      {
+        "speaker": "006-M",
+        "session": "R001S04C01",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200624_S_R001S04C01_006-M_31.06_44.93.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200624_S_R001S04C01_006-M_31.06_44.93.wav",
+        "start": "31.06",
+        "end": "44.93"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "001-F",
+        "transcript": "不是，是小孩儿推的那种 特别小的那种购物车，嗯 嗯",
+        "speaker_ratio": "0.38"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "就是小孩儿推的那种对就分三种购物车",
+        "speaker_ratio": "0.57"
+      },
+      {
+        "speaker": "004-M",
+        "transcript": "可以放个小孩儿。让小孩儿坐在里边 ，小孩儿推得哦，",
+        "speaker_ratio": "0.48"
+      },
+      {
+        "speaker": "006-M",
+        "transcript": "嗯行，咱们也，咱们建议也整这个小孩儿的",
+        "speaker_ratio": "0.3"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S05C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S05C01_mixture_1116.28_1126.77.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S05C01_mixture_1116.28_1126.77.wav",
+    "window": {
+      "start": "1116.28",
+      "end": "1126.77"
+    },
+    "target_speakers": [
+      "001-M",
+      "002-F"
+    ],
+    "expected_speakers": "2",
+    "constituents": [
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "session": "R001S05C01",
+        "start": "1068.77",
+        "end": "1074.11",
+        "enrolment_key": "R001S05C01|001-M|1068.77|1074.11",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_1068.77_1074.11.wav",
+        "speaker_ratio": "1.0",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "session": "R001S05C01",
+        "start": "33.93",
+        "end": "40.60",
+        "enrolment_key": "R001S05C01|001-M|33.93|40.60",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_33.93_40.60.wav",
+        "speaker_ratio": "1.0",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "session": "R001S05C01",
+        "start": "1198.73",
+        "end": "1204.29",
+        "enrolment_key": "R001S05C01|001-M|1198.73|1204.29",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_1198.73_1204.29.wav",
+        "speaker_ratio": "1.0",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "session": "R001S05C01",
+        "start": "1644.83",
+        "end": "1651.90",
+        "enrolment_key": "R001S05C01|001-M|1644.83|1651.90",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_1644.83_1651.90.wav",
+        "speaker_ratio": "1.0",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "session": "R001S05C01",
+        "start": "982.16",
+        "end": "990.23",
+        "enrolment_key": "R001S05C01|001-M|982.16|990.23",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_982.16_990.23.wav",
+        "speaker_ratio": "1.0",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "session": "R001S05C01",
+        "start": "188.70",
+        "end": "200.57",
+        "enrolment_key": "R001S05C01|002-F|188.70|200.57",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_188.70_200.57.wav",
+        "speaker_ratio": "0.53",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "session": "R001S05C01",
+        "start": "1859.60",
+        "end": "1864.91",
+        "enrolment_key": "R001S05C01|002-F|1859.60|1864.91",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_1859.60_1864.91.wav",
+        "speaker_ratio": "0.53",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "session": "R001S05C01",
+        "start": "839.97",
+        "end": "848.22",
+        "enrolment_key": "R001S05C01|002-F|839.97|848.22",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_839.97_848.22.wav",
+        "speaker_ratio": "0.53",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "session": "R001S05C01",
+        "start": "1668.23",
+        "end": "1674.10",
+        "enrolment_key": "R001S05C01|002-F|1668.23|1674.10",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_1668.23_1674.10.wav",
+        "speaker_ratio": "0.53",
+        "overlap_duration": "5.56"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "session": "R001S05C01",
+        "start": "1385.23",
+        "end": "1391.79",
+        "enrolment_key": "R001S05C01|002-F|1385.23|1391.79",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_1385.23_1391.79.wav",
+        "speaker_ratio": "0.53",
+        "overlap_duration": "5.56"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "001-M",
+        "session": "R001S05C01",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S05C01_001-M_1068.77_1074.11.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_1068.77_1074.11.wav",
+        "start": "1068.77",
+        "end": "1074.11"
+      },
+      {
+        "speaker": "001-M",
+        "session": "R001S05C01",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S05C01_001-M_33.93_40.60.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_001-M_33.93_40.60.wav",
+        "start": "33.93",
+        "end": "40.60"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S05C01",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S05C01_002-F_188.70_200.57.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_188.70_200.57.wav",
+        "start": "188.70",
+        "end": "200.57"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S05C01",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S05C01_002-F_1859.60_1864.91.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S05C01_002-F_1859.60_1864.91.wav",
+        "start": "1859.60",
+        "end": "1864.91"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "001-M",
+        "transcript": "对电电梯尤其电梯可能尤其前几前几天",
+        "speaker_ratio": "1.0"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "嗯 啊还得消毒，现在主要是消毒工作也做得比较好，每每天消毒",
+        "speaker_ratio": "0.53"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S06C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S06C01_mixture_1342.33_1352.99.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S06C01_mixture_1342.33_1352.99.wav",
+    "window": {
+      "start": "1342.33",
+      "end": "1352.99"
+    },
+    "target_speakers": [
+      "002-F",
+      "004-F"
+    ],
+    "expected_speakers": "2",
+    "constituents": [
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "session": "R001S06C01",
+        "start": "525.06",
+        "end": "536.69",
+        "enrolment_key": "R001S06C01|004-F|525.06|536.69",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_525.06_536.69.wav",
+        "speaker_ratio": "0.78",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "session": "R001S06C01",
+        "start": "511.37",
+        "end": "517.50",
+        "enrolment_key": "R001S06C01|004-F|511.37|517.50",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_511.37_517.50.wav",
+        "speaker_ratio": "0.78",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "session": "R001S06C01",
+        "start": "237.45",
+        "end": "245.83",
+        "enrolment_key": "R001S06C01|004-F|237.45|245.83",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_237.45_245.83.wav",
+        "speaker_ratio": "0.78",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "session": "R001S06C01",
+        "start": "98.81",
+        "end": "104.64",
+        "enrolment_key": "R001S06C01|004-F|98.81|104.64",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_98.81_104.64.wav",
+        "speaker_ratio": "0.78",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "session": "R001S06C01",
+        "start": "1676.84",
+        "end": "1684.05",
+        "enrolment_key": "R001S06C01|004-F|1676.84|1684.05",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_1676.84_1684.05.wav",
+        "speaker_ratio": "0.78",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "session": "R001S06C01",
+        "start": "214.17",
+        "end": "219.18",
+        "enrolment_key": "R001S06C01|002-F|214.17|219.18",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_214.17_219.18.wav",
+        "speaker_ratio": "0.71",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "session": "R001S06C01",
+        "start": "1808.58",
+        "end": "1816.62",
+        "enrolment_key": "R001S06C01|002-F|1808.58|1816.62",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_1808.58_1816.62.wav",
+        "speaker_ratio": "0.71",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "session": "R001S06C01",
+        "start": "1355.13",
+        "end": "1363.35",
+        "enrolment_key": "R001S06C01|002-F|1355.13|1363.35",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_1355.13_1363.35.wav",
+        "speaker_ratio": "0.71",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "session": "R001S06C01",
+        "start": "710.20",
+        "end": "716.58",
+        "enrolment_key": "R001S06C01|002-F|710.20|716.58",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_710.20_716.58.wav",
+        "speaker_ratio": "0.71",
+        "overlap_duration": "5.25"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "session": "R001S06C01",
+        "start": "691.66",
+        "end": "699.18",
+        "enrolment_key": "R001S06C01|002-F|691.66|699.18",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_691.66_699.18.wav",
+        "speaker_ratio": "0.71",
+        "overlap_duration": "5.25"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "004-F",
+        "session": "R001S06C01",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S06C01_004-F_525.06_536.69.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_525.06_536.69.wav",
+        "start": "525.06",
+        "end": "536.69"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S06C01",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S06C01_004-F_511.37_517.50.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_004-F_511.37_517.50.wav",
+        "start": "511.37",
+        "end": "517.50"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S06C01",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S06C01_002-F_214.17_219.18.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_214.17_219.18.wav",
+        "start": "214.17",
+        "end": "219.18"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S06C01",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S06C01_002-F_1808.58_1816.62.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S06C01_002-F_1808.58_1816.62.wav",
+        "start": "1808.58",
+        "end": "1816.62"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "002-F",
+        "transcript": "啊就是你得看他的自己本身的一些特点吧啊啊如果不适合适合什么样的",
+        "speaker_ratio": "0.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对 性格特点对就是往那些方面发展",
+        "speaker_ratio": "0.78"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S07C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+    "window": {
+      "start": "1171.74",
+      "end": "1190.73"
+    },
+    "target_speakers": [
+      "001-M",
+      "002-F",
+      "004-F"
+    ],
+    "expected_speakers": "3",
+    "constituents": [
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "session": "R001S07C01",
+        "start": "1112.62",
+        "end": "1122.36",
+        "enrolment_key": "R001S07C01|004-F|1112.62|1122.36",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_1112.62_1122.36.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "session": "R001S07C01",
+        "start": "133.74",
+        "end": "139.98",
+        "enrolment_key": "R001S07C01|004-F|133.74|139.98",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_133.74_139.98.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "session": "R001S07C01",
+        "start": "330.21",
+        "end": "337.74",
+        "enrolment_key": "R001S07C01|004-F|330.21|337.74",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_330.21_337.74.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "session": "R001S07C01",
+        "start": "337.79",
+        "end": "348.37",
+        "enrolment_key": "R001S07C01|004-F|337.79|348.37",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_337.79_348.37.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "session": "R001S07C01",
+        "start": "1410.45",
+        "end": "1419.53",
+        "enrolment_key": "R001S07C01|004-F|1410.45|1419.53",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_1410.45_1419.53.wav",
+        "speaker_ratio": "0.65",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "session": "R001S07C01",
+        "start": "1897.82",
+        "end": "1904.39",
+        "enrolment_key": "R001S07C01|001-M|1897.82|1904.39",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1897.82_1904.39.wav",
+        "speaker_ratio": "0.23",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "session": "R001S07C01",
+        "start": "1432.28",
+        "end": "1438.18",
+        "enrolment_key": "R001S07C01|001-M|1432.28|1438.18",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1432.28_1438.18.wav",
+        "speaker_ratio": "0.23",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "session": "R001S07C01",
+        "start": "1812.96",
+        "end": "1820.62",
+        "enrolment_key": "R001S07C01|001-M|1812.96|1820.62",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1812.96_1820.62.wav",
+        "speaker_ratio": "0.23",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "session": "R001S07C01",
+        "start": "1678.92",
+        "end": "1687.33",
+        "enrolment_key": "R001S07C01|001-M|1678.92|1687.33",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1678.92_1687.33.wav",
+        "speaker_ratio": "0.23",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "session": "R001S07C01",
+        "start": "1649.01",
+        "end": "1655.47",
+        "enrolment_key": "R001S07C01|001-M|1649.01|1655.47",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1649.01_1655.47.wav",
+        "speaker_ratio": "0.23",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "session": "R001S07C01",
+        "start": "1462.79",
+        "end": "1467.96",
+        "enrolment_key": "R001S07C01|002-F|1462.79|1467.96",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1462.79_1467.96.wav",
+        "speaker_ratio": "0.39",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "session": "R001S07C01",
+        "start": "1744.06",
+        "end": "1749.52",
+        "enrolment_key": "R001S07C01|002-F|1744.06|1749.52",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1744.06_1749.52.wav",
+        "speaker_ratio": "0.39",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "session": "R001S07C01",
+        "start": "619.31",
+        "end": "627.51",
+        "enrolment_key": "R001S07C01|002-F|619.31|627.51",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_619.31_627.51.wav",
+        "speaker_ratio": "0.39",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "session": "R001S07C01",
+        "start": "1635.15",
+        "end": "1640.46",
+        "enrolment_key": "R001S07C01|002-F|1635.15|1640.46",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1635.15_1640.46.wav",
+        "speaker_ratio": "0.39",
+        "overlap_duration": "5.33"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "session": "R001S07C01",
+        "start": "1141.80",
+        "end": "1148.27",
+        "enrolment_key": "R001S07C01|002-F|1141.80|1148.27",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1141.80_1148.27.wav",
+        "speaker_ratio": "0.39",
+        "overlap_duration": "5.33"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "004-F",
+        "session": "R001S07C01",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_004-F_1112.62_1122.36.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_1112.62_1122.36.wav",
+        "start": "1112.62",
+        "end": "1122.36"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S07C01",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_004-F_133.74_139.98.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_004-F_133.74_139.98.wav",
+        "start": "133.74",
+        "end": "139.98"
+      },
+      {
+        "speaker": "001-M",
+        "session": "R001S07C01",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_001-M_1897.82_1904.39.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1897.82_1904.39.wav",
+        "start": "1897.82",
+        "end": "1904.39"
+      },
+      {
+        "speaker": "001-M",
+        "session": "R001S07C01",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_001-M_1432.28_1438.18.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_001-M_1432.28_1438.18.wav",
+        "start": "1432.28",
+        "end": "1438.18"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S07C01",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_002-F_1462.79_1467.96.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1462.79_1467.96.wav",
+        "start": "1462.79",
+        "end": "1467.96"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S07C01",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S07C01_002-F_1744.06_1749.52.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S07C01_002-F_1744.06_1749.52.wav",
+        "start": "1744.06",
+        "end": "1749.52"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "001-M",
+        "transcript": "对毕竟国外卖国外的东西其实不行 国外代购的话",
+        "speaker_ratio": "0.23"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "对 有啊现在就是有嗯 对 因为有中国的有一些就是老的品牌也挺好 嗯",
+        "speaker_ratio": "0.39"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "咱们也可以从代购开始走起嘛嗯对慢慢的来 对啊有中有外国人找中国产品的感觉 像咱们花西子现在也可以打个折儿",
+        "speaker_ratio": "0.65"
+      }
+    ]
+  },
+  {
+    "kind": "mixture",
+    "session": "R001S08C01",
+    "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S08C01_mixture_1320.10_1336.65.wav",
+    "source": "AISHELL-4/mixtures/AISHELL-4_20200616_M_R001S08C01_mixture_1320.10_1336.65.wav",
+    "window": {
+      "start": "1320.10",
+      "end": "1336.65"
+    },
+    "target_speakers": [
+      "002-F",
+      "003-F",
+      "004-F"
+    ],
+    "expected_speakers": "3",
+    "constituents": [
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "session": "R001S08C01",
+        "start": "592.57",
+        "end": "602.52",
+        "enrolment_key": "R001S08C01|002-F|592.57|602.52",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_592.57_602.52.wav",
+        "speaker_ratio": "0.55",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "session": "R001S08C01",
+        "start": "938.24",
+        "end": "943.32",
+        "enrolment_key": "R001S08C01|002-F|938.24|943.32",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_938.24_943.32.wav",
+        "speaker_ratio": "0.55",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "session": "R001S08C01",
+        "start": "464.57",
+        "end": "469.80",
+        "enrolment_key": "R001S08C01|002-F|464.57|469.80",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_464.57_469.80.wav",
+        "speaker_ratio": "0.55",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "session": "R001S08C01",
+        "start": "1536.13",
+        "end": "1544.53",
+        "enrolment_key": "R001S08C01|002-F|1536.13|1544.53",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_1536.13_1544.53.wav",
+        "speaker_ratio": "0.55",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "session": "R001S08C01",
+        "start": "1492.59",
+        "end": "1500.38",
+        "enrolment_key": "R001S08C01|002-F|1492.59|1500.38",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_1492.59_1500.38.wav",
+        "speaker_ratio": "0.55",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "session": "R001S08C01",
+        "start": "40.94",
+        "end": "49.91",
+        "enrolment_key": "R001S08C01|003-F|40.94|49.91",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_40.94_49.91.wav",
+        "speaker_ratio": "0.4",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "session": "R001S08C01",
+        "start": "261.21",
+        "end": "268.23",
+        "enrolment_key": "R001S08C01|003-F|261.21|268.23",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_261.21_268.23.wav",
+        "speaker_ratio": "0.4",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "session": "R001S08C01",
+        "start": "438.01",
+        "end": "445.45",
+        "enrolment_key": "R001S08C01|003-F|438.01|445.45",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_438.01_445.45.wav",
+        "speaker_ratio": "0.4",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "session": "R001S08C01",
+        "start": "1035.58",
+        "end": "1041.27",
+        "enrolment_key": "R001S08C01|003-F|1035.58|1041.27",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_1035.58_1041.27.wav",
+        "speaker_ratio": "0.4",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "session": "R001S08C01",
+        "start": "923.18",
+        "end": "928.25",
+        "enrolment_key": "R001S08C01|003-F|923.18|928.25",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_923.18_928.25.wav",
+        "speaker_ratio": "0.4",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "session": "R001S08C01",
+        "start": "1673.83",
+        "end": "1679.37",
+        "enrolment_key": "R001S08C01|004-F|1673.83|1679.37",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_1673.83_1679.37.wav",
+        "speaker_ratio": "0.54",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "session": "R001S08C01",
+        "start": "88.26",
+        "end": "99.57",
+        "enrolment_key": "R001S08C01|004-F|88.26|99.57",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_88.26_99.57.wav",
+        "speaker_ratio": "0.54",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "session": "R001S08C01",
+        "start": "1065.87",
+        "end": "1073.39",
+        "enrolment_key": "R001S08C01|004-F|1065.87|1073.39",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_1065.87_1073.39.wav",
+        "speaker_ratio": "0.54",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "session": "R001S08C01",
+        "start": "57.13",
+        "end": "64.53",
+        "enrolment_key": "R001S08C01|004-F|57.13|64.53",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_57.13_64.53.wav",
+        "speaker_ratio": "0.54",
+        "overlap_duration": "7.71"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "session": "R001S08C01",
+        "start": "1171.17",
+        "end": "1176.80",
+        "enrolment_key": "R001S08C01|004-F|1171.17|1176.80",
+        "repo_path": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_1171.17_1176.80.wav",
+        "speaker_ratio": "0.54",
+        "overlap_duration": "7.71"
+      }
+    ],
+    "reference_clips": [
+      {
+        "speaker": "002-F",
+        "session": "R001S08C01",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_002-F_592.57_602.52.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_592.57_602.52.wav",
+        "start": "592.57",
+        "end": "602.52"
+      },
+      {
+        "speaker": "002-F",
+        "session": "R001S08C01",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_002-F_938.24_943.32.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_002-F_938.24_943.32.wav",
+        "start": "938.24",
+        "end": "943.32"
+      },
+      {
+        "speaker": "003-F",
+        "session": "R001S08C01",
+        "transcript": "对确实挺重要，管着他",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_003-F_40.94_49.91.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_40.94_49.91.wav",
+        "start": "40.94",
+        "end": "49.91"
+      },
+      {
+        "speaker": "003-F",
+        "session": "R001S08C01",
+        "transcript": "对确实挺重要，管着他",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_003-F_261.21_268.23.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_003-F_261.21_268.23.wav",
+        "start": "261.21",
+        "end": "268.23"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S08C01",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_004-F_1673.83_1679.37.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_1673.83_1679.37.wav",
+        "start": "1673.83",
+        "end": "1679.37"
+      },
+      {
+        "speaker": "004-F",
+        "session": "R001S08C01",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "path": "experiments/data/ps4/constituents/AISHELL-4_20200616_M_R001S08C01_004-F_88.26_99.57.wav",
+        "source": "AISHELL-4/enrolment_speakers/AISHELL-4_20200616_M_R001S08C01_004-F_88.26_99.57.wav",
+        "start": "88.26",
+        "end": "99.57"
+      }
+    ],
+    "ground_truth": [
+      {
+        "speaker": "002-F",
+        "transcript": "这这很重要的话就是，因为他们现在是大学生了，我们也不能就是说跟小学一样每天就是管着，嗯",
+        "speaker_ratio": "0.55"
+      },
+      {
+        "speaker": "003-F",
+        "transcript": "对确实挺重要，管着他",
+        "speaker_ratio": "0.4"
+      },
+      {
+        "speaker": "004-F",
+        "transcript": "对，然后可以让各个系嘛各个系每个专业不同嘛出一些关于自己本专业的一些活动之类的",
+        "speaker_ratio": "0.54"
+      }
+    ]
+  }
+]

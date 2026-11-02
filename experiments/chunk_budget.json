@@ -1,0 +1,190 @@
+{
+  "source": "REAL-PS4 / AISHELL-4 — the cluster input measured, not inferred",
+  "note": "chunks are the rows the cluster backend clusters: 1.5-second windows over the VAD segments with a 0.75-second hop. The backend returns a single cluster below 20 rows.",
+  "mixtures": [
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S01C01_mixture_1319.63_1335.54.wav",
+      "chunks": 21,
+      "clusters": 1,
+      "sentences": 7,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S02C01_mixture_1268.75_1280.38.wav",
+      "chunks": 15,
+      "clusters": 1,
+      "sentences": 6,
+      "forced_single_cluster": true
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S03C01_mixture_1550.21_1566.96.wav",
+      "chunks": 22,
+      "clusters": 1,
+      "sentences": 8,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200624_S_R001S04C01_mixture_1312.88_1325.86.wav",
+      "chunks": 17,
+      "clusters": 1,
+      "sentences": 8,
+      "forced_single_cluster": true
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S05C01_mixture_1116.28_1126.77.wav",
+      "chunks": 12,
+      "clusters": 1,
+      "sentences": 4,
+      "forced_single_cluster": true
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S06C01_mixture_1342.33_1352.99.wav",
+      "chunks": 13,
+      "clusters": 1,
+      "sentences": 6,
+      "forced_single_cluster": true
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+      "chunks": 25,
+      "clusters": 3,
+      "sentences": 11,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/mixtures/AISHELL-4_20200616_M_R001S08C01_mixture_1320.10_1336.65.wav",
+      "chunks": 22,
+      "clusters": 2,
+      "sentences": 8,
+      "forced_single_cluster": false
+    }
+  ],
+  "meetings": [
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S04C01_00.wav",
+      "chunks": 142,
+      "clusters": 5,
+      "sentences": 64,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S01C01_01.wav",
+      "chunks": 131,
+      "clusters": 3,
+      "sentences": 59,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_02.wav",
+      "chunks": 138,
+      "clusters": 2,
+      "sentences": 49,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S06C01_03.wav",
+      "chunks": 127,
+      "clusters": 6,
+      "sentences": 56,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S02C01_04.wav",
+      "chunks": 112,
+      "clusters": 2,
+      "sentences": 45,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S03C01_05.wav",
+      "chunks": 91,
+      "clusters": 2,
+      "sentences": 48,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S01C01_06.wav",
+      "chunks": 121,
+      "clusters": 3,
+      "sentences": 46,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R001S03C01_07.wav",
+      "chunks": 106,
+      "clusters": 3,
+      "sentences": 48,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_08.wav",
+      "chunks": 98,
+      "clusters": 6,
+      "sentences": 46,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S01C01_09.wav",
+      "chunks": 119,
+      "clusters": 5,
+      "sentences": 46,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R001S03C01_10.wav",
+      "chunks": 102,
+      "clusters": 3,
+      "sentences": 40,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S03C01_11.wav",
+      "chunks": 87,
+      "clusters": 3,
+      "sentences": 48,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S01C01_12.wav",
+      "chunks": 121,
+      "clusters": 3,
+      "sentences": 56,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_13.wav",
+      "chunks": 124,
+      "clusters": 4,
+      "sentences": 58,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_14.wav",
+      "chunks": 84,
+      "clusters": 3,
+      "sentences": 43,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R001S03C01_15.wav",
+      "chunks": 90,
+      "clusters": 3,
+      "sentences": 42,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_16.wav",
+      "chunks": 35,
+      "clusters": 4,
+      "sentences": 11,
+      "forced_single_cluster": false
+    },
+    {
+      "path": "experiments/data/ps4/meetings/meeting_R002S08C01_17.wav",
+      "chunks": 70,
+      "clusters": 3,
+      "sentences": 24,
+      "forced_single_cluster": false
+    }
+  ]
+}

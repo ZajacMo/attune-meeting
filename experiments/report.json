@@ -1,0 +1,985 @@
+{
+  "source": "REAL-PS4 / AISHELL-4 (real recorded Mandarin meetings)",
+  "experiment_one": {
+    "clips": 126,
+    "speakers": [
+      "001-F",
+      "001-M",
+      "002-F",
+      "002-M",
+      "003-F",
+      "003-M",
+      "004-F",
+      "004-M",
+      "005-F",
+      "005-M",
+      "006-F",
+      "006-M",
+      "007-F",
+      "007-M"
+    ],
+    "sessions": [
+      "R001S01C01",
+      "R001S02C01",
+      "R001S03C01",
+      "R001S05C01",
+      "R002S01C01",
+      "R002S02C01",
+      "R002S03C01"
+    ],
+    "same_speaker_cross_session": {
+      "count": 378,
+      "min": 0.1853,
+      "p05": 0.4071,
+      "p25": 0.6256,
+      "median": 0.7366,
+      "p75": 0.8018,
+      "p95": 0.8469,
+      "max": 0.8853,
+      "mean": 0.6919
+    },
+    "same_speaker_same_session": {
+      "count": 126,
+      "min": 0.3374,
+      "p05": 0.4936,
+      "p25": 0.7102,
+      "median": 0.7792,
+      "p75": 0.8264,
+      "p95": 0.8765,
+      "max": 0.9119,
+      "mean": 0.7532
+    },
+    "different_speakers": {
+      "count": 7371,
+      "min": -0.0403,
+      "p05": 0.1472,
+      "p25": 0.2518,
+      "median": 0.3257,
+      "p75": 0.3982,
+      "p95": 0.52,
+      "max": 0.8479,
+      "mean": 0.3288
+    },
+    "best_separating_threshold": {
+      "threshold": 0.6179,
+      "accuracy": 0.9794,
+      "errors": 160,
+      "total": 7749
+    },
+    "equal_error_rate": {
+      "threshold": 0.5313,
+      "eer": 0.1026
+    },
+    "threshold_sweep": [
+      {
+        "threshold": 0.45,
+        "recall_same_speaker": 0.9074,
+        "false_accept_other_speaker": 0.1392
+      },
+      {
+        "threshold": 0.5,
+        "recall_same_speaker": 0.8545,
+        "false_accept_other_speaker": 0.0663
+      },
+      {
+        "threshold": 0.53,
+        "recall_same_speaker": 0.836,
+        "false_accept_other_speaker": 0.0419
+      },
+      {
+        "threshold": 0.55,
+        "recall_same_speaker": 0.8148,
+        "false_accept_other_speaker": 0.0327
+      },
+      {
+        "threshold": 0.58,
+        "recall_same_speaker": 0.7963,
+        "false_accept_other_speaker": 0.0193
+      },
+      {
+        "threshold": 0.6,
+        "recall_same_speaker": 0.7884,
+        "false_accept_other_speaker": 0.0132
+      },
+      {
+        "threshold": 0.62,
+        "recall_same_speaker": 0.7646,
+        "false_accept_other_speaker": 0.0096
+      },
+      {
+        "threshold": 0.65,
+        "recall_same_speaker": 0.709,
+        "false_accept_other_speaker": 0.0075
+      },
+      {
+        "threshold": 0.67,
+        "recall_same_speaker": 0.6693,
+        "false_accept_other_speaker": 0.0066
+      },
+      {
+        "threshold": 0.68,
+        "recall_same_speaker": 0.6376,
+        "false_accept_other_speaker": 0.0062
+      },
+      {
+        "threshold": 0.7,
+        "recall_same_speaker": 0.5926,
+        "false_accept_other_speaker": 0.0054
+      },
+      {
+        "threshold": 0.72,
+        "recall_same_speaker": 0.5476,
+        "false_accept_other_speaker": 0.0047
+      },
+      {
+        "threshold": 0.75,
+        "recall_same_speaker": 0.4577,
+        "false_accept_other_speaker": 0.0035
+      },
+      {
+        "threshold": 0.78,
+        "recall_same_speaker": 0.328,
+        "false_accept_other_speaker": 0.0016
+      },
+      {
+        "threshold": 0.8,
+        "recall_same_speaker": 0.2593,
+        "false_accept_other_speaker": 0.0012
+      },
+      {
+        "threshold": 0.82,
+        "recall_same_speaker": 0.1481,
+        "false_accept_other_speaker": 0.0005
+      },
+      {
+        "threshold": 0.85,
+        "recall_same_speaker": 0.037,
+        "false_accept_other_speaker": 0.0
+      }
+    ],
+    "hardest_impostors": [
+      {
+        "score": 0.8479,
+        "speaker_a": "002-F",
+        "session_a": "R001S02C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8351,
+        "speaker_a": "002-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8275,
+        "speaker_a": "002-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8247,
+        "speaker_a": "002-F",
+        "session_a": "R001S01C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8142,
+        "speaker_a": "002-F",
+        "session_a": "R001S02C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S01C01"
+      },
+      {
+        "score": 0.814,
+        "speaker_a": "002-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8088,
+        "speaker_a": "005-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "006-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8076,
+        "speaker_a": "002-F",
+        "session_a": "R001S01C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.8053,
+        "speaker_a": "001-M",
+        "session_a": "R001S01C01",
+        "speaker_b": "006-M",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.7994,
+        "speaker_a": "002-F",
+        "session_a": "R001S02C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S01C01"
+      },
+      {
+        "score": 0.7973,
+        "speaker_a": "002-F",
+        "session_a": "R001S02C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.7831,
+        "speaker_a": "001-M",
+        "session_a": "R001S01C01",
+        "speaker_b": "006-M",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.7755,
+        "speaker_a": "005-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "006-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.7744,
+        "speaker_a": "002-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.7719,
+        "speaker_a": "002-F",
+        "session_a": "R001S03C01",
+        "speaker_b": "003-F",
+        "session_b": "R001S02C01"
+      }
+    ],
+    "hardest_genuine": [
+      {
+        "score": 0.1853,
+        "speaker": "003-F",
+        "session_a": "R001S01C01",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.2414,
+        "speaker": "001-M",
+        "session_a": "R001S01C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.2444,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.2835,
+        "speaker": "003-F",
+        "session_a": "R001S01C01",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.2902,
+        "speaker": "001-M",
+        "session_a": "R001S01C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.2942,
+        "speaker": "003-F",
+        "session_a": "R001S01C01",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.3374,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.3426,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.343,
+        "speaker": "001-M",
+        "session_a": "R001S01C01",
+        "session_b": "R001S02C01"
+      },
+      {
+        "score": 0.3436,
+        "speaker": "005-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.3569,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.3732,
+        "speaker": "001-M",
+        "session_a": "R001S01C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.3794,
+        "speaker": "005-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.3805,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      },
+      {
+        "score": 0.391,
+        "speaker": "003-F",
+        "session_a": "R001S02C01",
+        "session_b": "R001S03C01"
+      }
+    ]
+  },
+  "experiment_two": {
+    "grid": [
+      0.5,
+      0.53,
+      0.55,
+      0.6,
+      0.62,
+      0.65,
+      0.68,
+      0.7,
+      0.75,
+      0.82
+    ],
+    "profiles_per_k": {
+      "1": 252,
+      "2": 252,
+      "3": 252
+    },
+    "rules": {
+      "centroid": [
+        {
+          "k": 1,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.2942,
+            "p05": 0.4259,
+            "p25": 0.6323,
+            "median": 0.7309,
+            "p75": 0.7964,
+            "p95": 0.8457,
+            "max": 0.8853,
+            "mean": 0.6978
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0088,
+            "p05": 0.1395,
+            "p25": 0.2375,
+            "median": 0.3124,
+            "p75": 0.3872,
+            "p95": 0.5106,
+            "max": 0.814,
+            "mean": 0.3169
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.8968,
+              "false_accept_other_speaker": 0.0547
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.881,
+              "false_accept_other_speaker": 0.0369
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.8571,
+              "false_accept_other_speaker": 0.0288
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.8175,
+              "false_accept_other_speaker": 0.0114
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.7857,
+              "false_accept_other_speaker": 0.0084
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.7143,
+              "false_accept_other_speaker": 0.0067
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.627,
+              "false_accept_other_speaker": 0.0042
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.5635,
+              "false_accept_other_speaker": 0.0042
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.4286,
+              "false_accept_other_speaker": 0.0031
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.123,
+              "false_accept_other_speaker": 0.0
+            }
+          ]
+        },
+        {
+          "k": 2,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.3013,
+            "p05": 0.4427,
+            "p25": 0.6667,
+            "median": 0.7863,
+            "p75": 0.834,
+            "p95": 0.8724,
+            "max": 0.8963,
+            "mean": 0.7365
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0189,
+            "p05": 0.152,
+            "p25": 0.2612,
+            "median": 0.3385,
+            "p75": 0.4146,
+            "p95": 0.5354,
+            "max": 0.8626,
+            "mean": 0.3409
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.9167,
+              "false_accept_other_speaker": 0.086
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.881,
+              "false_accept_other_speaker": 0.0561
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.869,
+              "false_accept_other_speaker": 0.0422
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.8492,
+              "false_accept_other_speaker": 0.0193
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.8214,
+              "false_accept_other_speaker": 0.0137
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.7698,
+              "false_accept_other_speaker": 0.0087
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.7341,
+              "false_accept_other_speaker": 0.0075
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.7024,
+              "false_accept_other_speaker": 0.007
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.5992,
+              "false_accept_other_speaker": 0.0039
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.3373,
+              "false_accept_other_speaker": 0.0022
+            }
+          ]
+        },
+        {
+          "k": 3,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.2716,
+            "p05": 0.4564,
+            "p25": 0.7051,
+            "median": 0.8043,
+            "p75": 0.8494,
+            "p95": 0.8889,
+            "max": 0.9092,
+            "mean": 0.7562
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0036,
+            "p05": 0.1557,
+            "p25": 0.2688,
+            "median": 0.3508,
+            "p75": 0.429,
+            "p95": 0.5516,
+            "max": 0.8687,
+            "mean": 0.3518
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.9286,
+              "false_accept_other_speaker": 0.1052
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.8968,
+              "false_accept_other_speaker": 0.0704
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.881,
+              "false_accept_other_speaker": 0.0505
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.8532,
+              "false_accept_other_speaker": 0.0268
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.8413,
+              "false_accept_other_speaker": 0.0187
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.8333,
+              "false_accept_other_speaker": 0.0117
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.7937,
+              "false_accept_other_speaker": 0.0084
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.7579,
+              "false_accept_other_speaker": 0.0073
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.6706,
+              "false_accept_other_speaker": 0.0064
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.4286,
+              "false_accept_other_speaker": 0.0014
+            }
+          ]
+        }
+      ],
+      "max": [
+        {
+          "k": 1,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.2942,
+            "p05": 0.4259,
+            "p25": 0.6323,
+            "median": 0.7309,
+            "p75": 0.7964,
+            "p95": 0.8457,
+            "max": 0.8853,
+            "mean": 0.6978
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0088,
+            "p05": 0.1395,
+            "p25": 0.2375,
+            "median": 0.3124,
+            "p75": 0.3872,
+            "p95": 0.5106,
+            "max": 0.814,
+            "mean": 0.3169
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.8968,
+              "false_accept_other_speaker": 0.0547
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.881,
+              "false_accept_other_speaker": 0.0369
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.8571,
+              "false_accept_other_speaker": 0.0288
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.8175,
+              "false_accept_other_speaker": 0.0114
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.7857,
+              "false_accept_other_speaker": 0.0084
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.7143,
+              "false_accept_other_speaker": 0.0067
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.627,
+              "false_accept_other_speaker": 0.0042
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.5635,
+              "false_accept_other_speaker": 0.0042
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.4286,
+              "false_accept_other_speaker": 0.0031
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.123,
+              "false_accept_other_speaker": 0.0
+            }
+          ]
+        },
+        {
+          "k": 2,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.2942,
+            "p05": 0.4623,
+            "p25": 0.6517,
+            "median": 0.7687,
+            "p75": 0.8153,
+            "p95": 0.8511,
+            "max": 0.8853,
+            "mean": 0.7229
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0237,
+            "p05": 0.1611,
+            "p25": 0.2644,
+            "median": 0.3436,
+            "p75": 0.416,
+            "p95": 0.5391,
+            "max": 0.8351,
+            "mean": 0.3445
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.9087,
+              "false_accept_other_speaker": 0.0843
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.8929,
+              "false_accept_other_speaker": 0.0553
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.881,
+              "false_accept_other_speaker": 0.0436
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.8492,
+              "false_accept_other_speaker": 0.0165
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.8175,
+              "false_accept_other_speaker": 0.0114
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.7579,
+              "false_accept_other_speaker": 0.0092
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.7143,
+              "false_accept_other_speaker": 0.0073
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.6587,
+              "false_accept_other_speaker": 0.007
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.5476,
+              "false_accept_other_speaker": 0.0056
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.2063,
+              "false_accept_other_speaker": 0.0011
+            }
+          ]
+        },
+        {
+          "k": 3,
+          "n_positive": 252,
+          "n_negative": 3582,
+          "same_speaker_score": {
+            "count": 252,
+            "min": 0.2942,
+            "p05": 0.4637,
+            "p25": 0.6974,
+            "median": 0.7862,
+            "p75": 0.8264,
+            "p95": 0.8597,
+            "max": 0.8853,
+            "mean": 0.7432
+          },
+          "impostor_score": {
+            "count": 3582,
+            "min": 0.0459,
+            "p05": 0.1708,
+            "p25": 0.2803,
+            "median": 0.3585,
+            "p75": 0.4309,
+            "p95": 0.5552,
+            "max": 0.8351,
+            "mean": 0.3594
+          },
+          "sweep": [
+            {
+              "threshold": 0.5,
+              "recall_same_speaker": 0.9206,
+              "false_accept_other_speaker": 0.108
+            },
+            {
+              "threshold": 0.53,
+              "recall_same_speaker": 0.9087,
+              "false_accept_other_speaker": 0.0698
+            },
+            {
+              "threshold": 0.55,
+              "recall_same_speaker": 0.8889,
+              "false_accept_other_speaker": 0.0539
+            },
+            {
+              "threshold": 0.6,
+              "recall_same_speaker": 0.869,
+              "false_accept_other_speaker": 0.0226
+            },
+            {
+              "threshold": 0.62,
+              "recall_same_speaker": 0.8571,
+              "false_accept_other_speaker": 0.0165
+            },
+            {
+              "threshold": 0.65,
+              "recall_same_speaker": 0.8254,
+              "false_accept_other_speaker": 0.0123
+            },
+            {
+              "threshold": 0.68,
+              "recall_same_speaker": 0.7897,
+              "false_accept_other_speaker": 0.0095
+            },
+            {
+              "threshold": 0.7,
+              "recall_same_speaker": 0.75,
+              "false_accept_other_speaker": 0.0092
+            },
+            {
+              "threshold": 0.75,
+              "recall_same_speaker": 0.627,
+              "false_accept_other_speaker": 0.007
+            },
+            {
+              "threshold": 0.82,
+              "recall_same_speaker": 0.2897,
+              "false_accept_other_speaker": 0.0014
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "experiment_three": {
+    "cases": 5,
+    "cluster_agreement": 1.0,
+    "score_true_cluster": {
+      "count": 5,
+      "min": 0.6035,
+      "p05": 0.6035,
+      "p25": 0.6035,
+      "median": 0.7108,
+      "p75": 0.7456,
+      "p95": 0.7942,
+      "max": 0.7942,
+      "mean": 0.696
+    },
+    "score_best_cluster": {
+      "count": 5,
+      "min": 0.6035,
+      "p05": 0.6035,
+      "p25": 0.6035,
+      "median": 0.7108,
+      "p75": 0.7456,
+      "p95": 0.7942,
+      "max": 0.7942,
+      "mean": 0.696
+    },
+    "same_session_agreement": 1.0,
+    "same_session_cases": 5,
+    "diarization_purity": {
+      "count": 5,
+      "min": 0.8333,
+      "p05": 0.8333,
+      "p25": 0.8333,
+      "median": 0.8333,
+      "p75": 1.0,
+      "p95": 1.0,
+      "max": 1.0,
+      "mean": 0.9
+    },
+    "details": [
+      {
+        "mixture": "AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+        "session": "R001S07C01",
+        "speaker": "001-M",
+        "clusters_detected": 3,
+        "clusters_ground_truth": 3,
+        "diarization_purity": 0.8333,
+        "true_cluster": 0,
+        "enrolled_best_cluster": 0,
+        "same_cluster": true,
+        "score_true_cluster": 0.6035,
+        "score_best_cluster": 0.6035,
+        "margin": 0.0,
+        "same_session_best_cluster": 0,
+        "same_session_same_cluster": true,
+        "same_session_score_true_cluster": 0.6171
+      },
+      {
+        "mixture": "AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+        "session": "R001S07C01",
+        "speaker": "002-F",
+        "clusters_detected": 3,
+        "clusters_ground_truth": 3,
+        "diarization_purity": 0.8333,
+        "true_cluster": 1,
+        "enrolled_best_cluster": 1,
+        "same_cluster": true,
+        "score_true_cluster": 0.7456,
+        "score_best_cluster": 0.7456,
+        "margin": 0.0,
+        "same_session_best_cluster": 1,
+        "same_session_same_cluster": true,
+        "same_session_score_true_cluster": 0.704
+      },
+      {
+        "mixture": "AISHELL-4_20200616_M_R001S07C01_mixture_1171.74_1190.73.wav",
+        "session": "R001S07C01",
+        "speaker": "004-F",
+        "clusters_detected": 3,
+        "clusters_ground_truth": 3,
+        "diarization_purity": 0.8333,
+        "true_cluster": 2,
+        "enrolled_best_cluster": 2,
+        "same_cluster": true,
+        "score_true_cluster": 0.6259,
+        "score_best_cluster": 0.6259,
+        "margin": 0.0,
+        "same_session_best_cluster": 2,
+        "same_session_same_cluster": true,
+        "same_session_score_true_cluster": 0.6982
+      },
+      {
+        "mixture": "AISHELL-4_20200616_M_R001S08C01_mixture_1320.10_1336.65.wav",
+        "session": "R001S08C01",
+        "speaker": "002-F",
+        "clusters_detected": 2,
+        "clusters_ground_truth": 2,
+        "diarization_purity": 1.0,
+        "true_cluster": 0,
+        "enrolled_best_cluster": 0,
+        "same_cluster": true,
+        "score_true_cluster": 0.7942,
+        "score_best_cluster": 0.7942,
+        "margin": 0.0,
+        "same_session_best_cluster": 0,
+        "same_session_same_cluster": true,
+        "same_session_score_true_cluster": 0.8186
+      },
+      {
+        "mixture": "AISHELL-4_20200616_M_R001S08C01_mixture_1320.10_1336.65.wav",
+        "session": "R001S08C01",
+        "speaker": "004-F",
+        "clusters_detected": 2,
+        "clusters_ground_truth": 2,
+        "diarization_purity": 1.0,
+        "true_cluster": 1,
+        "enrolled_best_cluster": 1,
+        "same_cluster": true,
+        "score_true_cluster": 0.7108,
+        "score_best_cluster": 0.7108,
+        "margin": 0.0,
+        "same_session_best_cluster": 1,
+        "same_session_same_cluster": true,
+        "same_session_score_true_cluster": 0.7568
+      }
+    ]
+  }
+}

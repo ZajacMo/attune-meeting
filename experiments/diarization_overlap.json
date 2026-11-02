@@ -1,0 +1,454 @@
+{
+  "source": "REAL-PS4 / AISHELL-4 mixtures (real recorded Mandarin speech, synthesised overlap)",
+  "engine": "FunASR paraformer-zh + fsmn-vad + ct-punc + cam++ (CPU)",
+  "samples": 40,
+  "fully_separated_overall": 0.3,
+  "aggregate": {
+    "2 speakers / overlap ≤ 0.2": {
+      "n": 3,
+      "documented_speakers": 2,
+      "mean_detected_clusters": 2.0,
+      "fully_separated": 3
+    },
+    "2 speakers / overlap ≤ 0.4": {
+      "n": 3,
+      "documented_speakers": 2,
+      "mean_detected_clusters": 3.67,
+      "fully_separated": 2
+    },
+    "2 speakers / overlap ≤ 0.6": {
+      "n": 3,
+      "documented_speakers": 2,
+      "mean_detected_clusters": 3.0,
+      "fully_separated": 1
+    },
+    "2 speakers / overlap ≤ 0.8": {
+      "n": 3,
+      "documented_speakers": 2,
+      "mean_detected_clusters": 2.0,
+      "fully_separated": 1
+    },
+    "2 speakers / overlap ≤ 1.0": {
+      "n": 3,
+      "documented_speakers": 2,
+      "mean_detected_clusters": 2.33,
+      "fully_separated": 1
+    },
+    "3 speakers / overlap ≤ 0.2": {
+      "n": 3,
+      "documented_speakers": 3,
+      "mean_detected_clusters": 4.33,
+      "fully_separated": 2
+    },
+    "3 speakers / overlap ≤ 0.4": {
+      "n": 3,
+      "documented_speakers": 3,
+      "mean_detected_clusters": 2.0,
+      "fully_separated": 1
+    },
+    "3 speakers / overlap ≤ 0.6": {
+      "n": 3,
+      "documented_speakers": 3,
+      "mean_detected_clusters": 1.67,
+      "fully_separated": 0
+    },
+    "3 speakers / overlap ≤ 0.8": {
+      "n": 3,
+      "documented_speakers": 3,
+      "mean_detected_clusters": 2.0,
+      "fully_separated": 1
+    },
+    "3 speakers / overlap ≤ 1.0": {
+      "n": 3,
+      "documented_speakers": 3,
+      "mean_detected_clusters": 1.0,
+      "fully_separated": 0
+    },
+    "4 speakers / overlap ≤ 0.4": {
+      "n": 3,
+      "documented_speakers": 4,
+      "mean_detected_clusters": 6.0,
+      "fully_separated": 0
+    },
+    "4 speakers / overlap ≤ 0.6": {
+      "n": 3,
+      "documented_speakers": 4,
+      "mean_detected_clusters": 2.67,
+      "fully_separated": 0
+    },
+    "4 speakers / overlap ≤ 0.8": {
+      "n": 3,
+      "documented_speakers": 4,
+      "mean_detected_clusters": 2.33,
+      "fully_separated": 0
+    },
+    "4 speakers / overlap ≤ 1.0": {
+      "n": 1,
+      "documented_speakers": 4,
+      "mean_detected_clusters": 2.0,
+      "fully_separated": 0
+    }
+  },
+  "details": [
+    {
+      "session": "R001S01C01",
+      "window": "1066.05-1096.02",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 30.0,
+      "overlap_fraction": 0.18,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R002S05C01",
+      "window": "1487.18-1517.10",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 29.9,
+      "overlap_fraction": 0.22,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R002S07C01",
+      "window": "457.96-487.36",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 29.4,
+      "overlap_fraction": 0.19,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R002S04C01",
+      "window": "1560.92-1590.25",
+      "documented_speakers": 2,
+      "detected_clusters": 7,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.27,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R001S07C01",
+      "window": "712.97-742.30",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.37,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R001S06C01",
+      "window": "600.08-629.39",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.28,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R002S04C01",
+      "window": "1845.89-1875.18",
+      "documented_speakers": 2,
+      "detected_clusters": 3,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.47,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1740.91-1766.49",
+      "documented_speakers": 2,
+      "detected_clusters": 4,
+      "duration_s": 25.6,
+      "overlap_fraction": 0.48,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S05C01",
+      "window": "670.57-696.13",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 25.6,
+      "overlap_fraction": 0.52,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R001S02C01",
+      "window": "1621.12-1649.10",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 28.0,
+      "overlap_fraction": 0.76,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S06C01",
+      "window": "1320.71-1345.54",
+      "documented_speakers": 2,
+      "detected_clusters": 1,
+      "duration_s": 24.8,
+      "overlap_fraction": 0.72,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S04C01",
+      "window": "1595.08-1619.16",
+      "documented_speakers": 2,
+      "detected_clusters": 3,
+      "duration_s": 24.1,
+      "overlap_fraction": 0.83,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S07C01",
+      "window": "1257.71-1274.02",
+      "documented_speakers": 2,
+      "detected_clusters": 2,
+      "duration_s": 16.3,
+      "overlap_fraction": 0.86,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R001S01C01",
+      "window": "1319.63-1335.54",
+      "documented_speakers": 2,
+      "detected_clusters": 1,
+      "duration_s": 15.9,
+      "overlap_fraction": 0.86,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R002S04C01",
+      "window": "1975.94-1991.32",
+      "documented_speakers": 2,
+      "detected_clusters": 4,
+      "duration_s": 15.4,
+      "overlap_fraction": 0.92,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R001S07C01",
+      "window": "760.30-787.63",
+      "documented_speakers": 3,
+      "detected_clusters": 3,
+      "duration_s": 27.3,
+      "overlap_fraction": 0.22,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R001S07C01",
+      "window": "1048.78-1074.55",
+      "documented_speakers": 3,
+      "detected_clusters": 7,
+      "duration_s": 25.8,
+      "overlap_fraction": 0.2,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R001S04C01",
+      "window": "1682.05-1707.19",
+      "documented_speakers": 3,
+      "detected_clusters": 3,
+      "duration_s": 25.1,
+      "overlap_fraction": 0.21,
+      "overlap_bucket": 0.2
+    },
+    {
+      "session": "R001S06C01",
+      "window": "942.34-972.34",
+      "documented_speakers": 3,
+      "detected_clusters": 2,
+      "duration_s": 30.0,
+      "overlap_fraction": 0.39,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1580.19-1609.68",
+      "documented_speakers": 3,
+      "detected_clusters": 3,
+      "duration_s": 29.5,
+      "overlap_fraction": 0.43,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R001S03C01",
+      "window": "261.22-290.51",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.32,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1609.72-1637.83",
+      "documented_speakers": 3,
+      "detected_clusters": 2,
+      "duration_s": 28.1,
+      "overlap_fraction": 0.61,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1769.96-1798.03",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 28.1,
+      "overlap_fraction": 0.56,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S01C01",
+      "window": "402.47-429.65",
+      "documented_speakers": 3,
+      "detected_clusters": 2,
+      "duration_s": 27.2,
+      "overlap_fraction": 0.58,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R001S03C01",
+      "window": "1186.39-1212.71",
+      "documented_speakers": 3,
+      "detected_clusters": 3,
+      "duration_s": 26.3,
+      "overlap_fraction": 0.72,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S07C01",
+      "window": "1519.04-1544.75",
+      "documented_speakers": 3,
+      "detected_clusters": 2,
+      "duration_s": 25.7,
+      "overlap_fraction": 0.74,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S04C01",
+      "window": "712.58-737.69",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 25.1,
+      "overlap_fraction": 0.67,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1728.64-1742.09",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 13.4,
+      "overlap_fraction": 0.92,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R002S07C01",
+      "window": "1235.52-1244.99",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 9.5,
+      "overlap_fraction": 0.87,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R002S01C01",
+      "window": "1344.43-1353.57",
+      "documented_speakers": 3,
+      "detected_clusters": 1,
+      "duration_s": 9.1,
+      "overlap_fraction": 0.87,
+      "overlap_bucket": 1.0
+    },
+    {
+      "session": "R001S03C01",
+      "window": "1290.27-1318.19",
+      "documented_speakers": 4,
+      "detected_clusters": 6,
+      "duration_s": 27.9,
+      "overlap_fraction": 0.43,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R002S08C01",
+      "window": "2007.49-2034.14",
+      "documented_speakers": 4,
+      "detected_clusters": 10,
+      "duration_s": 26.6,
+      "overlap_fraction": 0.35,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R001S08C01",
+      "window": "1476.86-1500.38",
+      "documented_speakers": 4,
+      "detected_clusters": 2,
+      "duration_s": 23.5,
+      "overlap_fraction": 0.43,
+      "overlap_bucket": 0.4
+    },
+    {
+      "session": "R002S08C01",
+      "window": "1269.12-1298.44",
+      "documented_speakers": 4,
+      "detected_clusters": 2,
+      "duration_s": 29.3,
+      "overlap_fraction": 0.49,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S08C01",
+      "window": "353.61-382.76",
+      "documented_speakers": 4,
+      "detected_clusters": 3,
+      "duration_s": 29.1,
+      "overlap_fraction": 0.49,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R002S01C01",
+      "window": "1208.68-1237.50",
+      "documented_speakers": 4,
+      "detected_clusters": 3,
+      "duration_s": 28.8,
+      "overlap_fraction": 0.48,
+      "overlap_bucket": 0.6
+    },
+    {
+      "session": "R001S03C01",
+      "window": "565.01-594.55",
+      "documented_speakers": 4,
+      "detected_clusters": 3,
+      "duration_s": 29.5,
+      "overlap_fraction": 0.67,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S08C01",
+      "window": "107.00-136.17",
+      "documented_speakers": 4,
+      "detected_clusters": 2,
+      "duration_s": 29.2,
+      "overlap_fraction": 0.72,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S08C01",
+      "window": "980.47-1007.40",
+      "documented_speakers": 4,
+      "detected_clusters": 2,
+      "duration_s": 26.9,
+      "overlap_fraction": 0.66,
+      "overlap_bucket": 0.8
+    },
+    {
+      "session": "R002S01C01",
+      "window": "1676.57-1694.98",
+      "documented_speakers": 4,
+      "detected_clusters": 2,
+      "duration_s": 18.4,
+      "overlap_fraction": 0.86,
+      "overlap_bucket": 1.0
+    }
+  ]
+}

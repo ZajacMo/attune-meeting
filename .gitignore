@@ -15,7 +15,7 @@ venv/
 htmlcov/
 
 # Runtime data — recordings, transcripts, speaker registries
-data/
+/data/
 *.wav
 *.mp3
 *.m4a
@@ -23,6 +23,17 @@ data/
 *.mkv
 .env
 .env.local
+
+# Experiment sample: the audio is fetched on demand, only the manifest that
+# records exactly which files were used is kept in the repository.
+experiments/data/**
+!experiments/data/ps4/
+experiments/data/ps4/*
+!experiments/data/ps4/manifest.json
+
+# Scratch space from download probing and run logs.
+experiments/dl/
+experiments/*.log
 
 # OS
 .DS_Store
