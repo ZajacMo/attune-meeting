@@ -1,0 +1,68 @@
+[project]
+name = "attune"
+version = "0.1.0"
+description = "Meeting assistant: speaker-aware transcription, cross-session voiceprint identity, and minutes"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Attune Contributors" }]
+keywords = ["meeting", "transcription", "speaker-diarization", "voiceprint", "minutes", "mcp"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Multimedia :: Sound/Audio :: Speech",
+]
+dependencies = [
+  "httpx>=0.26.0",
+  "pydantic>=2.5.0",
+]
+
+[project.optional-dependencies]
+# Chinese-first ASR + speaker clustering (Paraformer + FSMN-VAD + CT-Transformer + CAM++)
+asr-funasr = ["funasr>=1.4.0", "torch>=2.0", "torchaudio>=2.0"]
+# Multilingual ASR with word-level alignment + pyannote diarization
+asr-whisperx = ["whisperx>=3.1", "torch>=2.0"]
+# MCP server + HTTP API
+server = [
+  "mcp>=1.9",
+  "fastapi>=0.110",
+  "uvicorn>=0.29",
+]
+dev = ["pytest>=8.0.0", "pytest-asyncio>=0.23.0", "ruff>=0.2.0"]
+
+[project.urls]
+Homepage = "https://github.com/attune-me/attune"
+Documentation = "https://github.com/attune-me/attune/tree/main/docs"
+Source = "https://github.com/attune-me/attune"
+
+[project.scripts]
+attune = "attune.cli:main"
+attune-mcp = "attune.server.mcp_server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/attune"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "UP", "B", "C4", "SIM"]
+ignore = ["E501"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+asyncio_default_fixture_loop_scope = "function"

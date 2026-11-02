@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Runtime data — recordings, transcripts, speaker registries
+data/
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mkv
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
