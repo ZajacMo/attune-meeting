@@ -7,7 +7,7 @@ instead.
 ## Option A — Python package (recommended)
 
 ```bash
-pip install attune
+pip install attune-meeting
 ```
 
 ```python

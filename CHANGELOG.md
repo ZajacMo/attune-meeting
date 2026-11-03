@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] — 2026-11-03
+
 ### Added
 
 - **Reproducible calibration.** `experiments/` holds the scripts behind every
@@ -16,6 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- **The distribution is now called `attune-meeting`.** The name `attune` was
+  already taken on PyPI by an unrelated optics package. Nothing is published
+  yet, so this rename costs nothing.
 - **Voiceprint thresholds recalibrated.** The shipped defaults are now
   `high_threshold = 0.68` and `low_threshold = 0.53`, measured on 126 real
   Mandarin meeting clips from 14 speakers across 7 sessions. The previous

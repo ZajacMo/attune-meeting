@@ -42,9 +42,9 @@ makes cross-session recognition work.
 ## Install
 
 ```bash
-pip install attune                 # core library only
-pip install "attune[server]"       # + MCP server and HTTP API
-pip install "attune[asr-funasr]"   # + Chinese ASR and speaker clustering
+pip install attune-meeting         # core library only
+pip install "attune-meeting[server]"       # + MCP server and HTTP API
+pip install "attune-meeting[asr-funasr]"   # + Chinese ASR and speaker clustering
 ```
 
 The ASR extras are deliberately optional: the core library, the identity

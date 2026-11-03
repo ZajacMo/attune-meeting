@@ -1,6 +1,6 @@
 [project]
-name = "attune"
-version = "0.1.0"
+name = "attune-meeting"
+version = "0.2.0"
 description = "Meeting assistant: speaker-aware transcription, cross-session voiceprint identity, and minutes"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -35,9 +35,9 @@ server = [
 dev = ["pytest>=8.0.0", "pytest-asyncio>=0.23.0", "ruff>=0.2.0"]
 
 [project.urls]
-Homepage = "https://github.com/attune-me/attune"
-Documentation = "https://github.com/attune-me/attune/tree/main/docs"
-Source = "https://github.com/attune-me/attune"
+Homepage = "https://github.com/ZajacMo/attune-meeting"
+Documentation = "https://github.com/ZajacMo/attune-meeting/tree/main/docs"
+Source = "https://github.com/ZajacMo/attune-meeting"
 
 [project.scripts]
 attune = "attune.cli:main"

@@ -37,9 +37,9 @@ Attune 补上另一半：
 ## 安装
 
 ```bash
-pip install attune                 # 仅核心库
-pip install "attune[server]"       # + MCP 服务与 HTTP API
-pip install "attune[asr-funasr]"   # + 中文 ASR 与说话人聚类
+pip install attune-meeting         # 仅核心库
+pip install "attune-meeting[server]"       # + MCP 服务与 HTTP API
+pip install "attune-meeting[asr-funasr]"   # + 中文 ASR 与说话人聚类
 ```
 
 ASR 扩展是刻意做成可选的：核心库、身份名册和文档生成足够轻，可以塞进任何东西。

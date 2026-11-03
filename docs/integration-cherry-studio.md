@@ -6,7 +6,7 @@ no plugin, no code changes.
 ## 1. Start the server
 
 ```bash
-pip install "attune[server]"
+pip install "attune-meeting[server]"
 attune-mcp --workspace ~/attune-data
 ```
 
@@ -70,7 +70,7 @@ and pass the absolute path to `transcribe_audio`.
 
 ## Notes
 
-- The ASR extra is optional but usually wanted: `pip install "attune[asr-funasr]"`.
+- The ASR extra is optional but usually wanted: `pip install "attune-meeting[asr-funasr]"`.
   Without it, `transcribe_audio` returns a clear error saying no engine is
   available.
 - The **project id** is the identity scope. Use one id per ongoing set of
